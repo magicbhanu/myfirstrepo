@@ -1,2 +1,4 @@
 This is my first GIT hub line
 This second line is for the secoond commit
+Fixed the bug in this filey
+
